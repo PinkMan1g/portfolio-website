@@ -9,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        retro: ['"Press Start 2P"', 'cursive'], // novi font
+        retro: ['"Press Start 2P"', 'monospace'], // novi font
       },
     },
   },
