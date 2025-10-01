@@ -50,7 +50,7 @@ export default function FloatingSunMoon({ time }) {
 	}, [totalMinutes]);
 
 	const handleClick = () => {
-		window.open('https://linkedin.com/in/parsas/', '_blank');
+		window.open('https://github.com/PinkMan1g/About-Me/tree/main', '_blank');
 	};
 
 	return (
