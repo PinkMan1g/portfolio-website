@@ -13,7 +13,7 @@ const projects = [
 		emoji: '🌋',
 		image: '/images/revive.png',
 		link: 'https://www.minecraft.net/en-us/marketplace/pdp/cubical/revive-add--on/513a57fb-00b5-454a-966b-b8c75c54c613',
-		description: "Add-On that created by me for Cubical Studios. It is based on intercepting player's death and allowing them to be revived by another players.",
+		description: "Add-On that created by me for Cubical Studios. It is based on intercepting player's death and allowing them to be revived by another players. For more information you can also check Eckosoldier's video about the add-on",
 	},
 	{
 		title: 'Alphabet Blocks Add-On',
