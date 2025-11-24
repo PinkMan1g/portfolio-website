@@ -9,10 +9,11 @@ const projects = [
 		description: 'Add-On that is currently under QA and is pending to be released soon.',
 	},
 	{
-		title: 'Add-On Pending Release',
-		emoji: '⏳',
-		image: '/images/placeholder.png',
-		description: 'Add-On that is currently under QA and is pending to be released soon.',
+		title: 'Revive Add-On',
+		emoji: '🌋',
+		image: '/images/revive.png',
+		link: 'https://www.minecraft.net/en-us/marketplace/pdp/cubical/revive-add--on/513a57fb-00b5-454a-966b-b8c75c54c613',
+		description: "Add-On that created by me for Cubical Studios. It is based on intercepting player's death and allowing them to be revived by another players.",
 	},
 	{
 		title: 'Alphabet Blocks Add-On',
